@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @I-Zilotti
-- 🌱 I’m currently learning Python/SQL
-- 📫 How to reach me: isabela.zilotti@datlo.com
+- 👋 Hi, I’m Isabela Zilotti
+- 🌱 I’m currently learning Python, PostgreSQL
+- 📫 How to reach me: isabelazilotti@gmail.com
 - 😄 Pronouns: She/Her
 
 
